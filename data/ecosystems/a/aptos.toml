@@ -10049,5 +10049,8 @@ url = "https://github.com/ZXC-zxc/Aptos-web-test-tool"
 url = "https://github.com/zxf000000/aptos-tools-frontend"
 
 [[repo]]
+url = "https://github.com/pranayyb/peerwheels/blob/main/contract/Move.toml"
+
+[[repo]]
 url = "https://github.com/Zy-jay/swap"
 missing = true
